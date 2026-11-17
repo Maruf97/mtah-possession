@@ -1,0 +1,17 @@
+# Never commit match data or the cloned repos that contain it
+mtah/
+opendata/
+data/
+*.mp4
+*_atd.txt
+*_atd.xml
+*_homography.csv
+*_smart_tagging.xml
+
+# Generated files
+*.csv
+best_config.json
+_synth/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
