@@ -1,8 +1,8 @@
 # Ball possession from automatic data — technical document
 
-**Team:** <TEAM NAME>  
+**Team:** KINESTATICS  
 **Challenge:** More than a Hack 2027, Phase 1 (Barcelona – Athletic Club, tactical video)  
-**Code:** <PUBLIC REPOSITORY URL>
+**Code:** https://github.com/Maruf97/mtah-possession.git
 
 ---
 
