@@ -160,8 +160,8 @@ See `README.md` in the repository. With the data bundle unpacked into `mtah\data
 
 ```powershell
 python -m pip install -r requirements.txt
-python possession_model.py --repo .\mtah --out <team_name>.csv
-python .\mtah\evaluation\validate_submission.py <team_name>.csv
+python possession_model.py --repo .\mtah --out KINESTATICS.csv
+python .\mtah\evaluation\validate_submission.py KINESTATICS.csv
 ```
 
 The pipeline is deterministic: the same data bundle and code produce the same file.
